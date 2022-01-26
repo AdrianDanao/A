@@ -1,1 +1,22 @@
-
+{
+  "name": "adriandanao-1",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @AdrianDanao - 👀 I’m interested in Discord Bot Making - 🌱 I’m currently learning Phython and JavaScript - 📫 How to reach me Discord: Gussi#1740",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianDanao/AdrianDanao.git"
+  },
+  "author": "Gussi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianDanao/AdrianDanao/issues"
+  },
+  "homepage": "https://github.com/AdrianDanao/AdrianDanao#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
